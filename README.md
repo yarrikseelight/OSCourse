@@ -3,6 +3,6 @@ This directory contains project files fourse operating systems and systems progr
 **Project 1:**
   -reverse.c
 
-  **Project2:**
+  **Project 2:**
   -my-cat.c
   -my-grep.c
