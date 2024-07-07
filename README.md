@@ -1,4 +1,4 @@
-This directory contains project files fourse operating systems and systems programming.
+This directory contains project files for course operating systems and systems programming.
 
 **Project 1:**
   -reverse.c
