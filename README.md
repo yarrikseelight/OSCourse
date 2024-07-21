@@ -7,6 +7,6 @@ This directory contains project files for course operating systems and systems p
   -my-cat.c
   -my-grep.c
 
-    **Project 3:**
+  **Project 3:**
   -wish.c
 
